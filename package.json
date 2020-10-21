@@ -1,0 +1,32 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "expo": "~39.0.2",
+    "expo-status-bar": "~1.0.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-howler": "^4.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.2.tar.gz",
+    "react-native-audio-streaming": "^2.3.2",
+    "react-native-elements": "^2.3.2",
+    "react-native-sound": "^0.11.0",
+    "react-native-sound-player": "^0.10.4",
+    "react-native-track-player": "^1.2.3",
+    "react-native-web": "~0.13.12",
+    "react-native-webview": "^10.9.0",
+    "youtube-api-search": "0.0.5",
+    "youtube-api-v3-search": "^1.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
