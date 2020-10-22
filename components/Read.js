@@ -75,9 +75,6 @@ export default class Playlist extends Component {
     this.setState({ playing: !this.state.playing })
   }
 
-  state = {
-    playing: false
-  }
 
   constructor() {
     super();

@@ -1,7 +1,5 @@
 import React from 'react';
 import { Header } from 'react-native-elements';
-import { TouchableOpacity } from 'react-native';
-import { Icon } from 'native-base';
 
 
 
